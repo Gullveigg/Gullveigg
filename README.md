@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hakan 👋</h1>
 
-<!--
-**Gullveigg/Gullveigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Next.js • Web & Mobile Products • Veri Analizi
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  📧 mailadresin@gmail.com | 🌐 fyomind.com
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+I'm focused on building scalable web and mobile products with a clean architecture and data-driven approach. I care about performance, simplicity, and systems that actually work in real business scenarios.
+
+---
+
+## Tech stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark" />
+</p>
