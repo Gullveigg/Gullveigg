@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  📧 mailadresin@gmail.com | 🌐 fyomind.com
+  📧 fhydonanim@gmail.com | 🌐 https://fyomind.com
 </p>
 
 ---
 
 ## About me
 
-I'm focused on building scalable web and mobile products with a clean architecture and data-driven approach.  
-I build systems that are fast, maintainable, and actually usable in real business scenarios.
+I build scalable web and mobile products with a clean architecture and a data-driven mindset.  
+Focused on creating systems that are fast, maintainable, and actually usable in real business scenarios.
 
 ---
 
@@ -39,14 +39,27 @@ I build systems that are fast, maintainable, and actually usable in real busines
   <img src="https://streak-stats.demolab.com?user=gullveigg&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullveigg&layout=compact&theme=dark&hide_border=true" />
-</p>
+---
+
+## Focus Areas
+
+- ⚡ High-performance Next.js applications  
+- 📱 Mobile-first product development  
+- 📊 Data-driven decision systems  
+- 🧩 Admin panels & scalable backends  
 
 ---
 
 ## Featured Projects
 
-- 🚀 SaaS Admin Panel (Laravel + Filament)
-- 📱 Mobile App (React Native)
-- 🌐 AI Product (Next.js + API-first)
+- 🚀 [SaaS Admin Panel](https://github.com/gullveigg) (Laravel + Filament)  
+- 📱 [Mobile App](https://github.com/gullveigg) (React Native)  
+- 🌐 [AI Product](https://github.com/gullveigg) (Next.js + API-first)  
+
+---
+
+## Let's build something together 🚀
+
+If you're looking for a reliable developer to build real, scalable products:
+
+👉 https://fyomind.com
