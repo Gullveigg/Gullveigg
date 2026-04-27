@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hakan 👋</h1>
 
 <p align="center">
-  Next.js • Web & Mobile Products • Veri Analizi
+  Next.js • Web & Mobile Products • Data Analysis
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ Focused on creating systems that are fast, maintainable, and actually usable in 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -47,6 +48,7 @@ Focused on creating systems that are fast, maintainable, and actually usable in 
 - 📱 Mobile-first product development  
 - 📊 Data-driven decision systems  
 - 🧩 Admin panels & scalable backends  
+- 🗄️ SQL & NoSQL database structures  
 
 ---
 
